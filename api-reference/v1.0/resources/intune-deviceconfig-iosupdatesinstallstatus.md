@@ -29,7 +29,7 @@ Not yet documented
 |downloadInsufficientSpace|-2016330709|Not yet documented|
 |downloadInsufficientPower|-2016330708|Not yet documented|
 |downloadInsufficientNetwork|-2016330707|Not yet documented|
-|installing|-2016330706|Not yet documented|
+|installing|-2016330706|This code is also returned as an error for Update Policies, with the title "OutOfDate"|
 |installInsufficientSpace|-2016330705|Not yet documented|
 |installInsufficientPower|-2016330704|Not yet documented|
 |installPhoneCallInProgress|-2016330703|Not yet documented|
